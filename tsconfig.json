@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "declaration": true,
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "lib": [
+            "esnext",
+        ],
+        "module": "commonjs",
+        "target": "es5",
+        "moduleResolution": "node",
+        "stripInternal": true,
+        "esModuleInterop": true
+    }
+}

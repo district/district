@@ -1,0 +1,24 @@
+{
+    "name": "@district/platform-express",
+    "version": "1.0.0",
+    "main": "dist/index",
+    "typings": "dist/index.d.ts",
+    "author": {
+        "name": "Wilson Hobbs",
+        "email": "wilsonhobbs1@gmail.com",
+        "url": "http://www.wilsonhobbs.com"
+    },
+    "scripts": {
+        "build": "tsc -p tsconfig.build.json"
+    },
+    "peerDependencies": {
+        "@district/core": "1.0.0"
+    },
+    "devDependencies": {
+        "@district/core": "1.0.0",
+        "@types/express": "^4.11.1"
+    },
+    "dependencies": {
+        "express": "^4.16.2"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "@district/core",
+    "version": "1.0.0",
+    "main": "dist/index",
+    "typings": "dist/index.d.ts",
+    "author": {
+        "name": "Wilson Hobbs",
+        "email": "wilsonhobbs1@gmail.com",
+        "url": "http://www.wilsonhobbs.com"
+    },
+    "scripts": {
+        "build": "tsc -p tsconfig.build.json"
+    }
+}

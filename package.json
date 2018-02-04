@@ -1,0 +1,25 @@
+{
+  "name": "district-srcs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbhob/district.git"
+  },
+  "author": "Wilson Hobbs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wbhob/district/issues"
+  },
+  "homepage": "https://github.com/wbhob/district#readme",
+  "devDependencies": {
+    "@types/node": "^9.4.0",
+    "lerna": "^2.5.1",
+    "typescript": "^2.7.1"
+  }
+}
